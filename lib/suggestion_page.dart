@@ -119,9 +119,9 @@ class _SuggestionPageState extends State<SuggestionPage> {
                                         ),
                                       ),
                                     ),
-                                    SizedBox(
-                                      height: 5,
-                                    )
+                                    // SizedBox(
+                                    //   height: 5,
+                                    // )
                                   ],
                                 )))))),
           )),
