@@ -112,7 +112,7 @@ class _SuggestionPageState extends State<SuggestionPage> {
                                           );
                                         }),
                                         child: Text(
-                                          "sd",
+                                          "sdhgchgc",
                                           style: TextStyle(
                                               color: Colors.white,
                                               fontSize: 30),
