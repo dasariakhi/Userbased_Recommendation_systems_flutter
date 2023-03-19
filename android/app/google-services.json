@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622804945547",
+    "project_id": "recommendations-7071c",
+    "storage_bucket": "recommendations-7071c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622804945547:android:783970246c14cf080ae28e",
+        "android_client_info": {
+          "package_name": "com.example.recommendationsystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622804945547-5d662h9v7jnk658hd7nbghm5elh3iolr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOK1H1qnhAhVcwlub5V446VBzNiNc7f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622804945547-5d662h9v7jnk658hd7nbghm5elh3iolr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
